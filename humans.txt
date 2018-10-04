@@ -15,3 +15,4 @@ leave review if you like it
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT, JAVA
